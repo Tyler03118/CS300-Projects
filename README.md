@@ -4,9 +4,9 @@ The repository records all the projects from CS300 Spring at UW-Madison
 ## P01
 ### A local urgent care clinic is looking for our assistance automating its case management protocols.
 
-● Comfortably implement a procedural program using static methods in Java <br>
-● Explain the protocols used with oversize arrays  <br>
-● Verify the correctness of a static method which uses arrays by designing and implementing a
+• Comfortably implement a procedural program using static methods in Java <br>
+• Explain the protocols used with oversize arrays  <br>
+• Verify the correctness of a static method which uses arrays by designing and implementing a
 boolean tester method in Java
 
 ## P02 Dancing Badgers
@@ -28,9 +28,9 @@ to mouse or key-based input
 ## P04 Exceptional Care
 ### Our urgent care clinic is back, and is interested in making some design improvements to their patient tracking software.
 
-● Implement a simple object with basic accessor and mutator methods <br>
-● Explain the different requirements of using a static vs. a non-static method <br>
-● Verify the correctness of a method which uses exceptions by designing and implementing a tester method which includes exception handling <br>
+• Implement a simple object with basic accessor and mutator methods <br>
+• Explain the different requirements of using a static vs. a non-static method <br>
+• Verify the correctness of a method which uses exceptions by designing and implementing a tester method which includes exception handling <br>
 
 ## P05 Dancing Badgers III
 ### Back in P03, you took code previously written code and refactored it to a developed object-oriented design.
@@ -45,18 +45,18 @@ to mouse or key-based input
 ## P06 Changemaker
 ### In this assignment you will use recursion to solve a variation of the change-making problem.
 
-● Formulate a recursive solution to a problem by describing the base cases, recursive cases, and how to decompose it into smaller subproblems <br>
-● Implement a recursive solution to a problem by making recursive calls to solve the subproblems, and combining the results <br>
-● Compare the recursive formulations of similar problems <br>
-● Explain why recursion can be a useful problem-solving tool <br>
-● Develop unit tests to verify the correctness of your algorithms
+• Formulate a recursive solution to a problem by describing the base cases, recursive cases, and how to decompose it into smaller subproblems <br>
+• Implement a recursive solution to a problem by making recursive calls to solve the subproblems, and combining the results <br>
+• Compare the recursive formulations of similar problems <br>
+• Explain why recursion can be a useful problem-solving tool <br>
+• Develop unit tests to verify the correctness of your algorithms
 
 ## P07 Twitter Feed
 ### In this program, you will model a simple Twitter feed as a linked list of tweets. 
 
-● Explain how data is stored in a singly-linked list, including how additional elements are added in locations other than the head or tail of the list <br>
-● Contrast multiple different approaches to implementation of the Iterator interface <br>
-● Identify the ways in which an Iterable class can be used
+• Explain how data is stored in a singly-linked list, including how additional elements are added in locations other than the head or tail of the list <br>
+• Contrast multiple different approaches to implementation of the Iterator interface <br>
+• Identify the ways in which an Iterable class can be used
 
 ## P08 Bottle Factory
 ### You are provided a driver class simulating the working of the bottle factory machine which takes in empty bottles and produces filled & capped utilizing four queues. You will implement two variants of the queue data structure and a queue iterator.
