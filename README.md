@@ -1,7 +1,7 @@
 # CS300-Projects
 The repository records all the projects from CS300 Spring at UW-Madison
 
-## P01
+## P01 Urgent Care
 ### A local urgent care clinic is looking for our assistance automating its case management protocols.
 
 • Comfortably implement a procedural program using static methods in Java <br>
@@ -73,3 +73,5 @@ to mouse or key-based input
 • Implement common binary search tree (BST) operations <br>
 • Design test scenarios and detect errors in BST implementations <br>
 • Organize code using recursion 
+
+<i> ©2023 Mouna Ayari Ben Hadj Kacem and Hobbes LeGault — University of Wisconsin–Madison
